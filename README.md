@@ -1,16 +1,15 @@
-## Hi there 👋
+# About Me
 
-<!--
-**BKWeeks52/BKWeeks52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on startup ideas
+- 🌱 I’m currently learning about GitHub
+- 👯 I’m looking to collaborate on software development ideas
+- 🤔 I’m looking for help with starting a business
+- 💬 Ask me about concerts
+- 📫 How to reach me: IG: @kyle_weeks
+- 😄 Pronouns: he / him
+  > this is a blockquote test
+
